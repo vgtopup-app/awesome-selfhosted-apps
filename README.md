@@ -123,6 +123,7 @@ A curated list of **59+** awesome Self-Hosted resources, libraries, tools and pr
 - [Self-Hosted Podcast](https://selfhosted.show/) — Podcast about self-hosting and homelab setups.
 - [r/selfhosted](https://www.reddit.com/r/selfhosted/) — Reddit community for self-hosted software enthusiasts.
 - [LinuxServer.io](https://www.linuxserver.io/) — Community providing easy-to-deploy Docker containers.
+- [Mautic](https://www.mautic.org) - Open-source, self-hostable marketing automation platform for campaigns, segmentation, and customer journeys.
 
 ## Contributing
 
