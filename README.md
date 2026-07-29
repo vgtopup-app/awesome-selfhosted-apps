@@ -79,6 +79,7 @@ A curated list of **59+** awesome Self-Hosted resources, libraries, tools and pr
 
 - [Vaultwarden](https://github.com/dani-garcia/vaultwarden) — Unofficial Bitwarden compatible server for password management.
 - [Authentik](https://github.com/goauthentik/authentik) — Open-source identity provider with SSO and MFA support.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) — Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes.
 - [Authelia](https://github.com/authelia/authelia) — Single sign-on and 2FA portal for web applications.
 - [Pi-hole](https://github.com/pi-hole/pi-hole) — Network-wide ad blocking via your own Linux hardware.
 - [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) — Network-wide software for blocking ads and tracking.
