@@ -74,6 +74,7 @@ A curated list of **59+** awesome Self-Hosted resources, libraries, tools and pr
 - [Netdata](https://github.com/netdata/netdata) — Real-time infrastructure monitoring with ML-powered alerts.
 - [Homarr](https://github.com/ajnart/homarr) — Customizable browser homepage for your self-hosted services.
 - [Dashy](https://github.com/Lissy93/dashy) — Self-hosted dashboard for organizing homelab services.
+- [n8n Uptime Ping Alert](https://github.com/DeusAcc/n8n-uptime-ping-alert) — Self-hosted n8n workflow, checks a site every 5 minutes and alerts on Telegram only on state change.
 
 ## Security & Privacy
 
