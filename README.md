@@ -72,6 +72,7 @@ A curated list of **59+** awesome Self-Hosted resources, libraries, tools and pr
 - [Grafana](https://github.com/grafana/grafana) — Open observability platform for metrics, logs and traces.
 - [Prometheus](https://github.com/prometheus/prometheus) — Monitoring system and time series database.
 - [Netdata](https://github.com/netdata/netdata) — Real-time infrastructure monitoring with ML-powered alerts.
+- [SiteWatcher](https://github.com/NikKurkov/sitewatcher) — Self-hosted website uptime monitoring with TLS and domain expiry alerts and public status pages.
 - [Homarr](https://github.com/ajnart/homarr) — Customizable browser homepage for your self-hosted services.
 - [Dashy](https://github.com/Lissy93/dashy) — Self-hosted dashboard for organizing homelab services.
 
